@@ -1,0 +1,52 @@
+body {
+    background-image: url("salah.jpg");
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    height: 100vh;
+}
+
+.container {
+    background: #f2f2f2;
+    max-width: 90%;
+    margin: 20px auto;
+    border: 2px solid #333;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 1px solid #333;
+    padding: 12px 20px;
+    color: #fff;
+    font-weight: bold;
+    width: 180px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #ff4500;
+}
+
+#save-btn {
+    background: #00b894;
+}
+
+#save-el {
+    font-weight: bold;
+}
+
+
+
